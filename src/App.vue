@@ -56,6 +56,7 @@
     color: #999;
     text-decoration: none;
     outline: none;
+    
   }
   .gs-forbid {
     cursor: not-allowed;
@@ -94,6 +95,11 @@
     margin-left: 12px;
     display: inline-block;
   }
+
+   .gs-nav-item a{
+     margin-bottom:10px;
+   }
+
   .gs-logo {
     display: inline-block;
     margin-top: 10px;
